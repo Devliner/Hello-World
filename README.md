@@ -7,3 +7,5 @@ Java 入门
 入门
 
 github添加
+
+hello-beta1 分支建立成功
